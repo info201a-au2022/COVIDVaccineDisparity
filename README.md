@@ -1,7 +1,7 @@
 # Global Disparity of the COVID-19 Vaccine
 Rusheel Chande | rchande4@uw.edu | Autumn 2022
 
-(.\images\A1-visualizations\COVID-Vaccine-World-Tracker.png "Data visualization")
+![Data Visualization](.\images\A1-visualizations\COVID-Vaccine-World-Tracker.png)
 
 ## The Data Visualization
 1. I found this visualization by going onto the New York Times webpage and searching for COVID data. This image surprised me since I have only seen vaccine rate visualizations regarding the states before but never the entire globe. *The conclusions I made were concerning*. Furthermore, I picked this visualization related to COVID since a close family member of mine passed in the ICU due to COVID. This date visualization was created by Josh Holder, a researcher and writer for the New York Times. The map of data was last updated on September 4th, 2022. You can find the visualization using this following link: https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html

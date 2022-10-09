@@ -28,16 +28,16 @@ pwd                                 # print working directory (to find your curr
 cd <dir>                            # change the working directory to sub-directory
 cd ..                               # go to parent directory (go up)
 cd <PATH>                           # go to directory specified in <path>
-cd ~                                # go to your home directory 
+cd ~                                # go to your home directory
 cd ~/Documents/info201              # go to your INFO201 directory (the info201 directory must already exist)
-# 
+#
 ls                                  # list files of current directory
 ls -las                             # list files (show some details about the files with the flags -las)
 #
 mkdir <PATH>                        # make a new directory
 rmdir <PATH>                        # remove a directory (use with care!)
 #
-cp <PATH1> <PATH2>                  # copy a file 
+cp <PATH1> <PATH2>                  # copy a file
 mv <PATH1> <PATH2>                  # move a file from one directory to another or rename a file or directory
 rm <PATH>                           # remove a file or directory (use with care!)
 #
@@ -49,8 +49,8 @@ date                                # current time and date
 2. Set-up your directory structure for INFO-201. It should look like this (Mac OS):  
 ```
 ~/Documents/info201                  # Your root directory for INFO-201
-~/Documents/info201/assignments      # Your assignments will go here, in sub-directories 
-~/Documents/info201/data             # Your datasets will be saved in this directory 
+~/Documents/info201/assignments      # Your assignments will go here, in sub-directories
+~/Documents/info201/data             # Your datasets will be saved in this directory
 ~/Documents/info20/exercises         # Your weekly practice activities will go here, in sub-directories
 ```
 3. Describe the purpose of git and GitHub (see Freeman & Ross, 2019, chap. 3).
@@ -89,7 +89,7 @@ In Part II, you will create a report in Markdown.
 Please spend **ten minutes** or more scanning all the chapters in D'lgnazio & Klein (2020). You will find many different types of data visualizations. Some types will be quite familiar to you - see, for example, the bar charts in chapter 6. Others might be new or unusual, such as the iceberg in chapter 7.
 
 ### 2 Find A Data Visualization on the Internet
-Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should choose a visualization that was created for a specific purpose and that is credible. 
+Browse the web and find a data visualization that is **meaningful** to you. You might start, for example, at the [*New York Times*](http://nytimes.com) or [*Washington Post*](https://www.washingtonpost.com/) or other news source. Or, you might browse a scientific or cultural journal or website.  You should choose a visualization that was created for a specific purpose and that is credible.
 
 Best practice: Find several visualizations (3-5) that are appealing to you. Then, examine each one carefully and select the one that is most **meaningful** to you.
 
